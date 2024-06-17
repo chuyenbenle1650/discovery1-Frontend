@@ -1,0 +1,20 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink"
+    },
+    {
+      "id": "HeroSimpleCentered"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Get the Best Deal for Your Ride!",
+  "subtitle": "Sell your car hassle-free with Buy My Car - your trusted companion in the journey of parting ways with your vehicle."
+}
